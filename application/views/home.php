@@ -55,7 +55,7 @@
                     <h1 class="fs-2 fs-lg-1 text-white fw-bold mb-2 mb-lg-x1 lh-base mt-3 mt-lg-0"> Kelola Aplikasi <span class="text-nowrap">Bekerja Sama</span></h1>
                     <p class="fs-8 text-white mb-3 mb-lg-4 lh-lg">Dengan aplikasi kami semua terasa lebih mudah dan praktis tanpa biaya apapun dalam penggunaan dan tanpa iklan</p>
                     <div class="d-flex justify-content-center justify-content-lg-start"><a class="btn btn-primary btn-lg lh-xl mb-4 mb-md-5 mb-lg-7" href="#!">Pelajari lebih lanjut</a></div>
-                    <p class="mb-x1 fs-10 button-text text-uppercase fw-bold lh-base text-300">Download our app</p>
+                    <p class="mb-x1 fs-10 button-text text-uppercase fw-bold lh-base text-300">Download Sekarang Tersedia di App Store dan juga Play Store</p>
                     <div class="d-flex flex-wrap justify-content-center justify-content-lg-start gap-2 position-relative z-2"><a class="border-0 p-0 bg-transparent cursor-pointer rounded-1" href="#!"> <img class="img-fluid" src="assets/img/logos/App_Store.webp" alt="assets/img/logos/App_Store.webp" /></a><a class="border-0 p-0 bg-transparent cursor-pointer rounded-1" href="#!"> <img class="img-fluid" src="assets/img/logos/Play_Store.webp" alt="assets/img/logos/Play_Store.webp" /></a></div>
                   </div>
                   <div class="col-lg-6 position-lg-relative">
@@ -73,16 +73,16 @@
           <section class="container border-bottom mb-8 mb-lg-10">
             <div class="row pb-6 pb-lg-8 g-3 g-lg-8 px-3">
               <div class="col-12 col-md-4">
-                <h2 class="fs-3 fw-bold lh-sm mb-2 text-center" data-countup='{"endValue":6,"prefix":"0"}'>0</h2>
-                <h6 class="fs-8 fw-normal lh-lg mb-0 opacity-70 text-center">Offices are available on different countries</h6>
+                <h2 class="fs-3 fw-bold lh-sm mb-2 text-center" data-countup='{"endValue":9,"prefix":"0"}'>0</h2>
+                <h6 class="fs-8 fw-normal lh-lg mb-0 opacity-70 text-center">Kantor pusat yang sudah berada di berbagai negara</h6>
               </div>
               <div class="col-12 col-md-4">
                 <h2 class="fs-3 fw-bold lh-sm mb-2 text-center" data-countup='{"endValue":238}'>0</h2>
-                <h6 class="opacity-70 fs-8 fw-normal lh-lg mb-0 text-center">Seats are available right now with support</h6>
+                <h6 class="opacity-70 fs-8 fw-normal lh-lg mb-0 text-center">Kita juga menyediakan beberapa pelayanan lebih lanjut</h6>
               </div>
               <div class="col-12 col-md-4">
                 <h2 class="fs-3 fw-bold lh-sm mb-2 text-center" data-countup='{"endValue":1395,"autoIncreasing":true}'>0</h2>
-                <h5 class="opacity-70 fs-8 fw-normal lh-lg mb-0 text-center">People are using our co-work spaces right now</h5>
+                <h5 class="opacity-70 fs-8 fw-normal lh-lg mb-0 text-center">Orang sekarang beralih ke aplikasi kita karena lebih memudahkan</h5>
               </div>
             </div>
           </section>
